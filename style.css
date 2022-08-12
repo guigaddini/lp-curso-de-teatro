@@ -86,8 +86,8 @@ margin-bottom: 48px;
     background-color: rgba(236, 214, 196, 0.53);
 }
 
-.conteudo-principal-imagem {
-    height: 430px;
+.conteudo-principal-video {
+    padding-top: 48px; 
 }
 
 .conteudo-secundario {
